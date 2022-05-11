@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2017-2021 The LineageOS Project
+# Copyright (C) 2017-2021 The Project Blaze
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cipher_ysl.mk
+    $(LOCAL_DIR)/blaze_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    cipher_ysl-user \
-    cipher_ysl-userdebug \
-    cipher_ysl-eng
+    blaze_ysl-user \
+    blaze_ysl-userdebug \
+    blaze_ysl-eng
