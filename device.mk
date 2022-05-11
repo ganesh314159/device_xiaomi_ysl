@@ -54,4 +54,4 @@ PRODUCT_PACKAGES += \
     init.ysl.rc
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/xiaomi/ysl/ysl-vendor.mk)
+$(call inherit-product, vendor/xiaomi/ysl/ysl/ysl-vendor.mk)
